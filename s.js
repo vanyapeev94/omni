@@ -1,2 +1,5 @@
 alert();
-console.log(123)
+document.write('bbbb');
+setInterval(function(){
+	console.log('blabla')
+},1000)
